@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\Android\\Lab3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_two.xml",
+        "source": "H:\\Android\\Lab3\\app\\src\\main\\res\\menu\\activity_two.xml"
+    },
+    {
+        "merged": "H:\\Android\\Lab3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_one.xml",
+        "source": "H:\\Android\\Lab3\\app\\src\\main\\res\\menu\\activity_one.xml"
+    }
+]
